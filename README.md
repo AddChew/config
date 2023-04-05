@@ -1,4 +1,5 @@
 # Config
-Proposed Config Design
 
-Supported Features
+Proposed standardized config design for Data Science Projects
+
+### Supported Features
