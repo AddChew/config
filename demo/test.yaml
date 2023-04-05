@@ -1,0 +1,7 @@
+---
+CONFIG_YAML_PATH: ../config/preprod.yaml
+CREDENTIALS:
+  lan_id: a5123456
+  path: /user/a5123456/credentials.pwd
+ENV_VARIABLES:
+  test_env_variable: 1

@@ -1,0 +1,6 @@
+credentials:
+    lan_id: a5123456 # My comments
+    path: /user/a5123456/credentials.pwd
+
+env_variables:
+    test_env_variable: 1
